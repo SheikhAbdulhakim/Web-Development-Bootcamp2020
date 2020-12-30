@@ -1,11 +1,8 @@
-.card {
-    width: 210;
-    border: 1px solid grey;
-    border-radius: 5px;
+.Tajweed {
+    padding: 80px;
     text-align: center;
+    background-color: lightblue;
 }
-img {
-    width: 200px;
-    border-color: 5px rgb(236, 183, 191);
-    border-radius: 50%;
+.Tajweed h1 {
+    font-size: 40px;
 }
