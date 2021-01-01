@@ -1,40 +1,16 @@
 section {
-    width: 800px;
-    height: 800px;
-    background-color: #6d6d6d;
+    width: 500px;
+    height: 500px;
+    background-color: magenta;
 }
-div {
-    background-color: olive;
+#rgba {
     width: 50%;
     height: 50%;
+    background-color: rgba(255,255,255,0.7);
 }
-h1 {
-    font-size: 40px;
-    border: 1px solid black;
-    line-height: 200%;
-
-}
-h2 {
-    font-size: 2em;
-    margin-left: 1em;
-}
-p {
-    font-size: 1em;
-    background-color: white
-}
-article {
-    font-size: 20px;
-}
-button {
-    font-size: 1em;
-    padding: 0 1em;
-    border-radius: 0.5em;
-    background-color: lightblue;
-    color: white;
-}
-#ems h2 {
-    font-size: 3em;
-}
-#rems h1 {
-    font-size: 3rem;
+#Opacity {
+    width: 50%;
+    height: 50%;
+    background-color: yellow;
+    opacity: 0.5;
 }
