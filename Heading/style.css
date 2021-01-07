@@ -1,23 +1,14 @@
-body {
-    font-family: Roboto, sans-serif;
+img {
+    width: 30%;
+    margin: calc(10%/6);
 }
 
-main {
-    width: 60%;
-    margin: 0 auto;
-}
-
-h1 {
-    font-weight: 100;
-}
-
-h1,
-h2,
-h3 {
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: 100;
-}
-
-h1+h2 {
-    margin-top: 10px;
+nav {
+    font-family: 'Raleway' sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: calc(10%/6);
+    padding: 1.2em;
 }
