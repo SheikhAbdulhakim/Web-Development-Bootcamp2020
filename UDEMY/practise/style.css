@@ -1,0 +1,39 @@
+nav {
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #545454;
+    padding: 25px 25;
+}
+
+.tjwds ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+h1,
+h2,
+p {
+    font-size: 100%;
+    text-align: center;
+    background-color: lightblue;
+    justify-content: center;
+    box-shadow: #998899;
+}
+
+.tjwd {
+    display: inline-block;
+}
+
+.tjwd a::after {
+    display: inline-block;
+    color: #1F81E3;
+    content: '';
+    font-size: 80%;
+    font-weight: bold;
+    padding: 0 3px;
+}
