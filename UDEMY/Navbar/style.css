@@ -1,0 +1,38 @@
+body {
+    background-color: #f5d9d5;
+    font-family: "tangerine", sans-serif;
+}
+
+#mainNavbar {
+    font-size: 1.5em;
+    font-weight: 100;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #ea1c2c;
+}
+
+#mainNavbar .nav-link {
+    color: #ea1c2c;
+    font-size: 1.5em;
+}
+
+h1 {
+    font-size: 100;
+    font-weight: 4rem;
+}
+
+nav {
+    background-color: #567543;
+}
+
+@media (max-width:1200px) {
+    h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+}
